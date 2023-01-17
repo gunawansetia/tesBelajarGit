@@ -3,6 +3,7 @@ hitungLuas = (p, l) => {
 };
  
 // edited
+// edited kedua
 
 // ayam
 
