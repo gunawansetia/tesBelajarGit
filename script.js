@@ -1,6 +1,8 @@
 hitungLuas = (p, l) => {
   return p * l;
 };
+ 
+// edited
 
 // ayam
 
